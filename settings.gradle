@@ -1,0 +1,3 @@
+include ':bugly'
+include ':app'
+rootProject.name = "MyBuglyUpdate"
